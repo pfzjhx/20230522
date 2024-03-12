@@ -2,7 +2,9 @@
 
 int main()
 {
-	printf("ppppp");
+	printf("p");
+	printf("pp");
+	printf("ppp");
 	return 0;
 
 }
